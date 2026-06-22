@@ -1,5 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on [Portfolio](https://rampanjwani.vercel.app/)
-🌱 I’m currently learning AI/ML
-📫 How to reach me: ram15.panjwani@gmail.com
-⚡ Fun fact: I use Arch btw
+- 🔭 Currently building my [Portfolio](https://rampanjwani.vercel.app/)
+- 🌱 Learning AI, Machine Learning, and modern software development
+- 💻 Exploring C++, Java, Web Development, and Computer Science fundamentals
+- 📫 Reach me at: ram15.panjwani@gmail.com
+- ⚡ Fun fact: I use Arch Linux, by the way
